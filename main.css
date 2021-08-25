@@ -1,0 +1,34 @@
+.box1{
+    height: 100px;
+    background-color: blue;
+}
+.box2{
+    background-color: orangered;
+    color: orangered;
+}
+.card1{
+ height: 310px;
+ background-color: blue;
+}
+.card2{
+    height: 100px;
+    background-color: blue;
+}
+.card3{
+    height: 200px;
+    background-color: blue;
+}
+.bor1{
+    height: 98px;
+    background-color: blue;
+    margin-top: 105px;     
+}
+.bor2{
+    height: 98px;
+    background-color: blue;
+}
+.bor3{
+    height: 98px;
+    background-color: blue;
+    margin-top: 210px;
+}
